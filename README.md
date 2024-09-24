@@ -1,7 +1,7 @@
 # DevOps开发 golang 测试
 
 1. 72小时内完成
-2. frok本仓库
+2. fork本仓库
 3. 通过kubebuilder或者手动创建golang的项目；完成自定义CRD MyReplicaSet核心功能的开发（功能同kubernetes ReplicaSet）
 4. 要求不能直接引用kubernetes ReplicaSet模块源码
 5. 单元测试覆盖率必须大于80%
