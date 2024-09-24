@@ -7,4 +7,6 @@
 5. 单元测试覆盖率必须大于80%
 6. 必须包含controller的部署helm chart
 7. makefile包含完整的编译流程（controller镜像的编译、controller helm chart编译、单元测试）
-8. 完成以后通过pull request 提交，并备注面试姓名+联系方式，然后即时联系HR以免超时；谢谢合作
+8. 完成以后通过pull request 提交，并备注面试姓名+联系方式，然后即时联系HR以免超时
+
+谢谢合作
